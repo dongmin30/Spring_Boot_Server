@@ -1,2 +1,12 @@
 # Spring_Boot_Server
-Spring Boot Application Server Deployment Project
+# 서버 구축 순서
+1. 클라우드 - AWS (Amazon Web Services) 사용예정
+2. 운영체제 - Redhat의 CentOS 7~8 버전
+3. 서버접속 - ssh 설정 및 서버정보 정리하여 자신로컬에 저장예정
+4. 파일서버 - FTP(File Transfer Protocol)
+5. 웹서버 - Nginx
+6. 웹어플리케이션 서버 - Spring boot Built-in tomcat
+7. 도메인 - 추 후 확인 예정
+8. 로드 밸런싱- 추 후 확인 예정
+9. API(Apllication Programming Interface) 문서 정리
+10. API 서버 구축 - Rest API
