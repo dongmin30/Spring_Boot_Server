@@ -10,3 +10,4 @@
 8. 로드 밸런싱- 추 후 확인 예정
 9. API(Apllication Programming Interface) 문서 정리
 10. API 서버 구축 - Rest API
+11. CI/CD 서버 구축 - Jenkins
