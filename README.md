@@ -5,7 +5,7 @@
 3. 서버접속 - ssh 설정 및 서버정보 정리하여 자신로컬에 저장예정 -> SSH KEY 확보 + root 계정 활성화
 4. 파일서버 - FTP(File Transfer Protocol) - Win SCP KEY 구성
 5. 웹서버 - Nginx - 웹서버 설치 완료
-6. 웹어플리케이션 서버 - Spring boot Built-in tomcat
+6. 웹어플리케이션 서버 - 스프링 내장 톰캣 적용
 7. 도메인 - 추 후 확인 예정
 8. 로드 밸런싱- 추 후 확인 예정
 9. API(Apllication Programming Interface) 문서 정리
